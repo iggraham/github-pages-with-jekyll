@@ -1,4 +1,4 @@
-# Welcome to my blog
+# Ian Graham's meanderings
 
 I'm glad you are here. I plan to talk about how to learn your way through use of GitHub.
 
